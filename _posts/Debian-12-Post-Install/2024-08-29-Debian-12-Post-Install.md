@@ -1,9 +1,11 @@
 ---
-template: blog_post.html
-title: Debian 12 Post Install
-description: Debian 12 | خطوات يجب تنفيذها بعد التنصيب
-date: 2023-09-20
+layout: post
+title:  Debian-12-Post-Install
+date:   2024-12-229 22:57:49 +0000
+categories: jekyll update
+usemathjax: true
 ---
+
 
 # Debian 12 Post Install
 
